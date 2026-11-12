@@ -8,7 +8,8 @@
 
 GPL-2.0-only. Measurement data borrowed from other projects, kept in one crate
 so the rest of the SID stack can be MIT OR Apache-2.0. Each item will be
-replaced by clean-room data; when the crate is empty it will be deleted.
+replaced by clean-room data. The crate and repo are kept and maintained as is,
+and nothing depends on it.
 
 | Item | Origin | Retired by |
 |---|---|---|
