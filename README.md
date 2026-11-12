@@ -4,6 +4,8 @@
 
 # sid-gpl-data
 
+> Since mos6581 0.2.0 and sid-play 0.2.0, neither crate depends on sid-gpl-data. The data here is unchanged and remains available under GPL-2.0-only.
+
 GPL-2.0-only. Measurement data borrowed from other projects, kept in one crate
 so the rest of the SID stack can be MIT OR Apache-2.0. Each item will be
 replaced by clean-room data; when the crate is empty it will be deleted.
