@@ -4,6 +4,8 @@
 
 # sid-gpl-data
 
+[![GitHub stars](https://img.shields.io/github/stars/aovestdipaperino/sid-gpl-data?logo=github&color=brightgreen)](https://github.com/aovestdipaperino/sid-gpl-data/stargazers)
+
 > Since mos6581 0.2.0 and sid-play 0.2.0, neither crate depends on sid-gpl-data. The data here is unchanged and remains available under GPL-2.0-only.
 
 GPL-2.0-only. Measurement data borrowed from other projects, kept in one crate
